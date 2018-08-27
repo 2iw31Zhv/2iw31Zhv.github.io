@@ -8,7 +8,7 @@ h1
 
 p
 {
-    font-family: "Times New Roman";
+    font-family: "Cooper Hewitt";    
     font-size: 20px;
 
 }
@@ -19,9 +19,25 @@ body
     margin-right: auto;
 }
 
+ul
+{
+   font-family: "Cooper Hewitt";    
+    font-size: 20px;
+}
+
+table
+{
+    font-family: "Cooper Hewitt";    
+    font-size: 20px;  
+}
+#maincontent {
+    width: 800px;
+    margin: 10px auto;
+}
+
 
 #imagecontent {
-    width: 150px;
+    width: 160px;
     height: 120px;
     transform: rotate(90deg);
 }
@@ -33,15 +49,16 @@ body
 }
 
 #intro {
-    width:350px;
+    width:450px;
     float:left;
-    padding:10px; 
+
 }
 
 #education {
-    width:500px;
+    width:800px;
+    float:left;
 }
 
 #pub {
-    width:500px;
+    width:800px;
 }
