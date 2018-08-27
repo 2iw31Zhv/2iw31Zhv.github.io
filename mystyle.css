@@ -1,9 +1,16 @@
 h1
 {
-    background-color:gray;
-    color:white;
+    color:#606060;
     text-align:center;
-    padding:5px;
+    padding: 5px;
+}
+
+
+h2
+{
+    font-family: "Cooper Hewitt";
+    color: #707070;
+    text-shadow: 3px 3px 2px #E0E0E0;
 }
 
 p
@@ -31,6 +38,19 @@ ul
 }
 
 
+.dropshadow2{
+    float:left;
+    clear:left;
+    background: url(shadow1.png) no-repeat bottom right !important;
+    background: url(shadow2.gif) no-repeat bottom right;
+    margin: 10px 0 10px 10px !important;
+    margin: 10px 0 10px 5px;
+    width: 780px;
+    height: 80px;
+    padding: 5px;
+}
+
+
 #imagecontent {
     width: 160px;
     height: 120px;
@@ -44,7 +64,7 @@ ul
 }
 
 #intro {
-    width:450px;
+    width:500px;
     float:left;
 
 }
