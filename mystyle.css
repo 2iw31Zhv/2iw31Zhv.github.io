@@ -5,7 +5,12 @@ h1
     padding: 5px;
 }
 
-
+footer
+{
+    color:#606060;
+    text-align:center;
+    padding: 50px;
+}
 h2
 {
     font-family: "Cooper Hewitt";
@@ -31,6 +36,7 @@ ul
    font-family: "Cooper Hewitt";    
     font-size: 20px;
 }
+
 
 #maincontent {
     width: 800px;
