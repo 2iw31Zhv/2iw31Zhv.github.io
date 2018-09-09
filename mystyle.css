@@ -3,6 +3,7 @@ h1
     color:#606060;
     text-align:center;
     padding: 5px;
+    font: "Times New Roman"
 }
 
 footer
@@ -10,17 +11,19 @@ footer
     color:#606060;
     text-align:center;
     padding: 50px;
+    font: "Times New Roman"
 }
 h2
 {
     color: #707070;
     text-shadow: 3px 3px 2px #E0E0E0;
+    font: "Times New Roman"
 }
 
 p
 {
     font-size: 20px;
-
+    font: "Times New Roman"
 }
 
 a
