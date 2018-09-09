@@ -13,18 +13,20 @@ footer
 }
 h2
 {
-    font-family: "Cooper Hewitt";
     color: #707070;
     text-shadow: 3px 3px 2px #E0E0E0;
 }
 
 p
 {
-    font-family: "Cooper Hewitt";    
     font-size: 20px;
 
 }
 
+a
+{
+    color: black;
+}
 body
 {
     margin-left: auto; 
@@ -41,6 +43,7 @@ ul
 #maincontent {
     width: 800px;
     margin: 10px auto;
+    z-index: 2;
 }
 
 
@@ -68,15 +71,12 @@ ul
     padding: 60px;
 }
 
-#ma {
-    position: relative;
-    left: 90px;
-    top: 210px;
-    z-index: 9999;
-}
-
 
 #macontent {
+    position: relative;
+    left: -180px;
+    top: 180px;
+    z-index: 1;
     width:160px;
     transform: rotate(-30deg);
 }
@@ -84,7 +84,6 @@ ul
 #intro {
     width:500px;
     float:left;
-
 }
 
 #education {
