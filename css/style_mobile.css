@@ -2,7 +2,7 @@ h1
 {
     color:#606060;
     text-align:center;
-    padding: 5px;
+    padding: 10em;
     font: "Cooper Hewitt";
     font-size: 3em;
 }
@@ -14,6 +14,8 @@ footer
     padding: 50px;
     font-family: "Cooper Hewitt";
 }
+
+
 h2
 {
     color: #707070;
@@ -24,7 +26,7 @@ h2
 
 p
 {
-    font-size: auto;
+    font-size: 2em;
     font-family: "Cooper Hewitt";
 }
 
@@ -32,6 +34,7 @@ a
 {
     color: black;
 }
+
 body
 {
     margin-left: auto; 
@@ -48,12 +51,11 @@ ul
 #maincontent {
     width: auto;
     margin: auto;
-    z-index: 2;
 }
 
 
 .dropshadow2{
-
+    height: 4em;
 }
 
 
