@@ -3,7 +3,7 @@ h1
     color:#606060;
     text-align:center;
     padding: 5px;
-    font: "Times New Roman"
+    font: "Cooper Hewitt"
 }
 
 footer
@@ -11,19 +11,19 @@ footer
     color:#606060;
     text-align:center;
     padding: 50px;
-    font-family: "Times New Roman";
+    font-family: "Cooper Hewitt";
 }
 h2
 {
     color: #707070;
     text-shadow: 3px 3px 2px #E0E0E0;
-    font-family: "Times New Roman";
+    font-family: "Cooper Hewitt";
 }
 
 p
 {
     font-size: auto;
-    font-family: "Times New Roman";
+    font-family: "Cooper Hewitt";
 }
 
 a
@@ -55,16 +55,16 @@ ul
     clear:left;
     background: url(shadow1.png) no-repeat bottom right !important;
     background: url(shadow2.gif) no-repeat bottom right;
-    margin: 10px 0 10px 10px !important;
-    margin: 10px 0 10px 5px;
-    width: auto;
+    width: 100%;
     height: auto;
     padding: 5px;
 }
 
 
 #imagecontent {
-    width: 30%;
+    padding-left:30%;
+    padding-right:30%;
+    width: 40%;
     height: auto;
     transform: rotate(90deg);
 }
@@ -76,17 +76,15 @@ ul
 
 
 #macontent {
-    position: relative;
-    left: -180px;
-    top: 180px;
-    z-index: 1;
-    width:160px;
-    transform: rotate(-30deg);
+    width: 60%;
+    padding-left: 20%;
+    padding-right:20%;
 }
 
 #intro {
-    width: 60%;
+    width:auto;
     float:left;
+    font-size:1.2em;
 }
 
 #education {
@@ -96,4 +94,5 @@ ul
 
 #pub {
     width:auto;
+    font-size:1.2em;
 }
