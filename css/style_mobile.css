@@ -3,7 +3,8 @@ h1
     color:#606060;
     text-align:center;
     padding: 5px;
-    font: "Cooper Hewitt"
+    font: "Cooper Hewitt";
+    font-size: 2em;
 }
 
 footer
@@ -39,7 +40,7 @@ body
 ul
 {
    font-family: "Cooper Hewitt";    
-    font-size: 20px;
+    font-size: 2em;
 }
 
 
@@ -51,13 +52,7 @@ ul
 
 
 .dropshadow2{
-    float:left;
-    clear:left;
-    background: url(shadow1.png) no-repeat bottom right !important;
-    background: url(shadow2.gif) no-repeat bottom right;
-    width: 100%;
-    height: auto;
-    padding: 5px;
+
 }
 
 
@@ -84,15 +79,16 @@ ul
 #intro {
     width:auto;
     float:left;
-    font-size:1.2em;
+    font-size:2em;
 }
 
 #education {
     width:auto;
     float:left;
+    font-size:2em;
 }
 
 #pub {
     width:auto;
-    font-size:1.2em;
+    font-size:2em;
 }
