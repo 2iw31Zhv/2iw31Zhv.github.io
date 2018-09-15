@@ -1,0 +1,99 @@
+h1
+{
+    color:#606060;
+    text-align:center;
+    padding: 5px;
+    font: "Times New Roman"
+}
+
+footer
+{
+    color:#606060;
+    text-align:center;
+    padding: 50px;
+    font-family: "Times New Roman";
+}
+h2
+{
+    color: #707070;
+    text-shadow: 3px 3px 2px #E0E0E0;
+    font-family: "Times New Roman";
+}
+
+p
+{
+    font-size: auto;
+    font-family: "Times New Roman";
+}
+
+a
+{
+    color: black;
+}
+body
+{
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+ul
+{
+   font-family: "Cooper Hewitt";    
+    font-size: 20px;
+}
+
+
+#maincontent {
+    width: auto;
+    margin: auto;
+    z-index: 2;
+}
+
+
+.dropshadow2{
+    float:left;
+    clear:left;
+    background: url(shadow1.png) no-repeat bottom right !important;
+    background: url(shadow2.gif) no-repeat bottom right;
+    margin: 10px 0 10px 10px !important;
+    margin: 10px 0 10px 5px;
+    width: auto;
+    height: auto;
+    padding: 5px;
+}
+
+
+#imagecontent {
+    width: 30%;
+    height: auto;
+    transform: rotate(90deg);
+}
+
+#headimage {
+    float: left;
+    padding: 60px;
+}
+
+
+#macontent {
+    position: relative;
+    left: -180px;
+    top: 180px;
+    z-index: 1;
+    width:160px;
+    transform: rotate(-30deg);
+}
+
+#intro {
+    width: 60%;
+    float:left;
+}
+
+#education {
+    width:auto;
+    float:left;
+}
+
+#pub {
+    width:auto;
+}
