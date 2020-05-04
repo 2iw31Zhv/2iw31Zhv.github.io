@@ -66,6 +66,7 @@ ul
 #imagecontent {
     width: 120px;
     height: 160px;
+    transform: rotate(90deg);
 }
 
 #headimage {
