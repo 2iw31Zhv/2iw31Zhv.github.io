@@ -77,10 +77,9 @@ ul
 #macontent {
     position: relative;
     left: -180px;
-    top: 180px;
+    top: 240px;
     z-index: 1;
     width:160px;
-    transform: rotate(-30deg);
 }
 
 #intro {
