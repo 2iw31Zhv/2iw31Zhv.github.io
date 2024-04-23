@@ -1,47 +1,41 @@
-h1
-{
-    color:#606060;
-    text-align:center;
+h1 {
+    color: #606060;
+    text-align: center;
     padding: 5px;
-    font: "Times New Roman"
+    font: "Times New Roman";
 }
 
-footer
-{
-    color:#606060;
-    text-align:center;
+footer {
+    color: #606060;
+    text-align: center;
     padding: 50px;
     font-family: "Times New Roman";
 }
-h2
-{
+
+h2 {
     color: #707070;
     text-shadow: 3px 3px 2px #E0E0E0;
     font-family: "Times New Roman";
 }
 
-p
-{
+p {
     font-size: 20px;
     font-family: "Times New Roman";
 }
 
-a
-{
+a {
     color: black;
 }
-body
-{
-    margin-left: auto; 
+
+body {
+    margin-left: auto;
     margin-right: auto;
 }
 
-ul
-{
-   font-family: "Times New Roman";    
+ul {
+    font-family: "Times New Roman";
     font-size: 20px;
 }
-
 
 #maincontent {
     width: 800px;
@@ -49,10 +43,9 @@ ul
     z-index: 2;
 }
 
-
-.dropshadow2{
-    float:left;
-    clear:left;
+.dropshadow2 {
+    float: left;
+    clear: left;
     background: url(shadow1.png) no-repeat bottom right !important;
     background: url(shadow2.gif) no-repeat bottom right;
     margin: 10px 0 10px 10px !important;
@@ -61,7 +54,6 @@ ul
     height: 80px;
     padding: 5px;
 }
-
 
 #imagecontent {
     width: 120px;
@@ -73,13 +65,9 @@ ul
     padding: 60px;
 }
 
-
-#macontent {
-    position: relative;
-    left: -200px;
-    top: 240px;
-    z-index: 1;
-    width:160px;
+#button {
+    float: center;
+    padding: 0px;
 }
 
 #intro {
