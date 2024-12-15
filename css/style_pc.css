@@ -80,6 +80,11 @@ ul {
     float:left;
 }
 
+#news {
+    width:800px;
+    float:left;
+}
+
 #pub {
     width:800px;
 }

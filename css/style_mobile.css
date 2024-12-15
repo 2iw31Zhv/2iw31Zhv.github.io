@@ -89,6 +89,12 @@ ul
     font-size:2em;
 }
 
+#news {
+    width:auto;
+    float:left;
+    font-size:2em;
+}
+
 #pub {
     width:auto;
     font-size:2em;
